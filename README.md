@@ -5,8 +5,10 @@ The project takes original approaches of Marcel Duchamp, a French painter, sculp
 
 
 ![1](https://user-images.githubusercontent.com/108620000/177045014-a6e995b9-ea86-448e-82a7-52010e44bf39.PNG)
+![Sheet(4)](https://user-images.githubusercontent.com/108620000/190867274-66b37c00-18b5-45dc-ac92-edc113a82206.jpg)
 
-# Generated Images :
+
+# The web app :
 
 ![2](https://user-images.githubusercontent.com/108620000/177045134-8a23484c-7c0d-4c22-acc4-9c1087b81016.PNG)
 
