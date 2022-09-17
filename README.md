@@ -1,7 +1,7 @@
 # AI-text-to-art
 Generating artistic images from textual inputs using Artificial Intelligence.
 
-The project takes original approaches of Marcel Duchamp, a French painter, sculptor, chess player and writer whose work is associated with cubism, dada and conceptual art. With modern Machine Learning, we generate images of mysterious objects that resemble 20th century industrial design.
+Duchampian art made by A.I. DALL-Emades experiments with cutting-edge ML models like DALL-E, ruDALL-E and CLIP by Open AI to generate images of mysterious objects resembling 20th century industrial design with relevant art titles. In this project we are attempting to create a DALL-E like tool or some combination of ‘VAQ + Transformers’ based tool to be utilised by the art community. Considering Marcel Duchamp’s original approach, a machine learning based workflow which combines ‘text-prompt engineering’ plus ‘model-stacking’ method can yield interesting results.
 
 
 ![1](https://user-images.githubusercontent.com/108620000/177045014-a6e995b9-ea86-448e-82a7-52010e44bf39.PNG)
